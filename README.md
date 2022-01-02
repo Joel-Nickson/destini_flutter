@@ -1,6 +1,9 @@
 # destini_flutter
 
-A new Flutter project.
+A choose your own adventure game made with flutter.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+
 
 ## Getting Started
 
